@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Dune Rise Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dune Rise Regular'), url('Dune_Rise.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Dune Rise Regular';
+}
